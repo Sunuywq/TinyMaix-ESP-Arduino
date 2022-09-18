@@ -10,7 +10,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-char* labels[1000]={
+const char* labels[1000]={
 "tench, Tinca tinca",
 "goldfish, Carassius auratus",
 "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
